@@ -1,6 +1,6 @@
 # One-Dimensional AMDIM
 
-This code is a one-dimensional version of the AMDIM implementation introduced in:
+This is a refactored version of AMDIM implementation introduced in:
 
 @article{bachman2019amdim,
   Author={Bachman, Philip and Hjelm, R Devon and Buchwalter, William},
@@ -9,5 +9,7 @@ This code is a one-dimensional version of the AMDIM implementation introduced in
   Year={2019}
 }
 
-Their original code is available at: 
+That is enabled for 1-dimensional inputs.
+
+The original code is available at: 
 https://github.com/Philip-Bachman/amdim-public.git
