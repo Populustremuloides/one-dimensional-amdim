@@ -1,6 +1,6 @@
 # One-Dimensional AMDIM
 
-This is a refactored version of AMDIM implementation introduced in:
+This is a refactored version of the excellent AMDIM implementation introduced in:
 
 @article{bachman2019amdim,
   Author={Bachman, Philip and Hjelm, R Devon and Buchwalter, William},
