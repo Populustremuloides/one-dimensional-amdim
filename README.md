@@ -9,7 +9,7 @@ This is a refactored version of AMDIM implementation introduced in:
   Year={2019}
 }
 
-That is enabled for 1-dimensional inputs.
+that has been enabled for 1-dimensional inputs.
 
 The original code is available at: 
 https://github.com/Philip-Bachman/amdim-public.git
