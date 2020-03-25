@@ -1,6 +1,6 @@
 # One-Dimensional AMDIM
 
-This code is a one-dimensional version of the AMDIM from:
+This code is a one-dimensional version of the AMDIM implementation introduced in:
 
 @article{bachman2019amdim,
   Author={Bachman, Philip and Hjelm, R Devon and Buchwalter, William},
